@@ -1,0 +1,15 @@
+body {
+    height: 400px;
+    width: 300px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
+
+.header img {
+    height: 100%;
+}
